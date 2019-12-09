@@ -1,4 +1,4 @@
-# Outsiders in Brazilian Deputies Chamber
+# Outsiders in Brazillian Deputies Chamber
 
 In Brazil data on political candidatures are provided by the Supreme Electoral Court.
 It's messy and scattered over more than 300 .txt and .csv files.
